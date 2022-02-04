@@ -69,7 +69,7 @@ namespace QBankingSystem
             Account chk = bank.OpenCheckingAccount("John Doe", 600.00);
             bank.GetAccounts();
 
-            chk.makeWithdrawal(501);
+            chk.makeWithdrawal(499);
         }
 
         public void TestWithdrawal_ExceedLimit()
