@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QBankingSystem", "QBankingSystem.csproj", "{8288DA13-D37A-40FF-A52D-4E065BE67056}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F4A66EC3-E20E-43A9-9F2D-638D0C053E3F}"
+	ProjectSection(SolutionItems) = preProject
+		Bank.cs = Bank.cs
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingSystemTest", "..\..\..\source\repos\BankingSystemTest\BankingSystemTest.csproj", "{A79296AC-E805-4813-A29E-A44E3918C81A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8288DA13-D37A-40FF-A52D-4E065BE67056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8288DA13-D37A-40FF-A52D-4E065BE67056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8288DA13-D37A-40FF-A52D-4E065BE67056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8288DA13-D37A-40FF-A52D-4E065BE67056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79296AC-E805-4813-A29E-A44E3918C81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79296AC-E805-4813-A29E-A44E3918C81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79296AC-E805-4813-A29E-A44E3918C81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79296AC-E805-4813-A29E-A44E3918C81A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB5030C-AF2B-44DF-9FFF-05064E748B56}
+	EndGlobalSection
+EndGlobal
