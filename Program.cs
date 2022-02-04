@@ -26,6 +26,10 @@ namespace QBankingSystem
             Console.WriteLine("----------------------------------------------------");
             Thread.Sleep(3000);
 
+            test.TestWithdrawal_Successful();
+            Console.WriteLine("----------------------------------------------------");
+            Thread.Sleep(3000);
+
             test.TestWithdrawal_ExceedLimit();
             Console.WriteLine("----------------------------------------------------");
             Thread.Sleep(3000);
@@ -57,6 +61,15 @@ namespace QBankingSystem
             bank.GetAccounts();
 
             chk.makeDeposit(15.99);
+        }
+
+        public void TestWithdrawal_Successful()
+        {
+            Bank bank = new Bank("Wells Fargo");
+            Account chk = bank.OpenCheckingAccount("John Doe", 600.00);
+            bank.GetAccounts();
+
+            chk.makeWithdrawal(501);
         }
 
         public void TestWithdrawal_ExceedLimit()

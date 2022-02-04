@@ -23,7 +23,7 @@ namespace QBankingSystem
             sb.AppendLine();
 
             sb.AppendLine("Accounts");
-            sb.AppendLine("--------");
+            sb.AppendLine("---------");
 
             foreach (Account account in Accounts)
             {

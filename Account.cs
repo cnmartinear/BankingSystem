@@ -88,7 +88,7 @@ namespace QBankingSystem
                 account.Balance += amount;
                 Console.WriteLine("You've successfully transferred ${0} from the {1} account belonging to {2} to the {3} account belonging to {4}. Balance is now ${5}.", amount, Type, Owner, account.Type, account.Owner, account.Balance);
             }
-            else
+            else //transfer amount exceeds available balance
             {
                 Console.WriteLine("Uh oh! You are attempting to transfer more money than what's currently available in this account.", amount, Owner, Balance);
             }

@@ -1,0 +1,10 @@
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\bin\Debug\netcoreapp2.1\QBankingSystem.deps.json
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\bin\Debug\netcoreapp2.1\QBankingSystem.runtimeconfig.json
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\bin\Debug\netcoreapp2.1\QBankingSystem.runtimeconfig.dev.json
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\bin\Debug\netcoreapp2.1\QBankingSystem.dll
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\bin\Debug\netcoreapp2.1\QBankingSystem.pdb
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\obj\Debug\netcoreapp2.1\QBankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\obj\Debug\netcoreapp2.1\QBankingSystem.AssemblyInfoInputs.cache
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\obj\Debug\netcoreapp2.1\QBankingSystem.AssemblyInfo.cs
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\obj\Debug\netcoreapp2.1\QBankingSystem.dll
+C:\Users\Chelsie\Downloads\BankingSystem\BankingSystem-master\obj\Debug\netcoreapp2.1\QBankingSystem.pdb
